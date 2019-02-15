@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHubApp</string>
+    <string name="search">Search</string>
+    <string name="todo">Todo</string>
+    <string name="messageSearch">"Kindly enter Data in search filed"</string>
+
+    <string name="searchKey">SEARCH"</string>
+</resources>
